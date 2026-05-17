@@ -10,6 +10,11 @@ def all_posts():
     print("\n--- All Posts ---")
     # loop over each post that is stored in the program
     for item in items:
+        print(item)
+
+def add_posts(posts, views, catagory):
+    """allows us to add a new item with posts, view, catagory"""
+    
         
     
 
