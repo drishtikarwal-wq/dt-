@@ -51,20 +51,20 @@ add_posts("My food vlog", 150, "vlogs")
         
     
 
-#while loop to repeat menu and functions
-again = True
-
-while again:
-
-    print("Menu: ")
-    print("1. All_posts")
-    print("2. Add_a_post")
-    print("3 Change_number_of_views")
-    print("4. Delete_a_post")
-    print("5. Generate_a_post")
-    print("6. Exit")
-
-    choice = input("enter your choice")
+###while loop to repeat menu and functions
+##again = True
+##
+##while again:
+##
+##    print("Menu: ")
+##    print("1. All_posts")
+##    print("2. Add_a_post")
+##    print("3 Change_number_of_views")
+##    print("4. Delete_a_post")
+##    print("5. Generate_a_post")
+##    print("6. Exit")
+##
+##    choice = input("enter your choice")
 
         
         
